@@ -1,7 +1,6 @@
 +++ 
 date = 2023-08-04T18:49:36+01:00
 title = "Get GitHub App access token on Azure Pipelines"
-slug = ""
 +++
 
 If you need to call some GitHub API endpoints from an Azure Pipeline, you may face the need to create a personal access token. In most situations, I would advise finding an alternative to PATs. Today we are going to see how we can do that with GitHub Apps.
