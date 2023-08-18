@@ -3,8 +3,6 @@ date = 2023-08-18T16:23:00+01:00
 title = "Azure DevOps Project Administrators in Power Query / Power BI"
 +++
 
-Azure DevOps Project Administrators in Power Query / Power BI
-
 If you need to show Azure DevOps project information in Power BI, you may find that there is no REST API call to directly get Project Administrators based on the project.
 
 By using DevTools in Edge (or Chrome, or another browser), we can see many web requests that can help us find what we want.
