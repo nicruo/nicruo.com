@@ -39,3 +39,9 @@ file input2.txt
 ```bash
 ffmpeg -i input.avi -c:v copy output.mp4
 ```
+
+## Change video bitrate
+
+```bash
+ffmpeg -i input.mp4 -b 3000k output.mp4
+```
