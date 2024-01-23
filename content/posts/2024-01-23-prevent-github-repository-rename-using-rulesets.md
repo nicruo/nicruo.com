@@ -31,3 +31,7 @@ I have removed every other option on Branch protections in this ruleset.
 With this ruleset enabled, if I try to rename the repository without a role to bypass, I see the error message "Name can't be changed on a repository protected by a ruleset".
 
 ![Ruleset enforced](/img/2024-01-23-prevent-github-repository-rename-using-rulesets/6.png)
+
+GitHub’s rulesets can prevent repository renaming in your organization and many other scenarios. By creating a new branch ruleset and managing bypass permissions, you can ensure repository governance. This helps maintain consistency and order. 
+
+Remember, effective governance is about setting and adhering to rules. With rulesets, you’re closer to this goal.
